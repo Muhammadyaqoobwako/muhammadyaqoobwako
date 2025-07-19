@@ -50,8 +50,7 @@
 ## 📫 Contact Me
 
 - 📧 **Email:** muhammadyaqoobwako@gmail.com
-- 🔗 **LinkedIn:** [muhammad-yaqoob](https://linkedin.com/in/muhammad-yaqoob)
-- 🌐 **Facebook:** [Muhammad Yaqoob](https://facebook.com/muhammad.yaqoob)
+- 🔗 **LinkedIn:** [muhammad-yaqoob](https://www.linkedin.com/in/yaqoobwako/)
 
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-yaqoob" target="_blank">
