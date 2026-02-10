@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yaqoob</h1>
-<h3 align="center">Full Stack Developer | Software Engineering Student </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+%26+AI+Focused;Software+Engineering+Student+%287th+Semester%29;Building+Scalable+Real-World+Applications" />
 </p>
 
 <p align="center">
@@ -21,61 +20,70 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student at **Mohammad Ali Jinnah University** (7th Semester)
-- 💻 Full Stack Developer (MERN Stack)
-- 🚀 Interested in **AI-powered apps, scalable systems & clean architecture**
-- 🧠 Strong problem-solving mindset & hands-on project experience
-- 🎯 Goal: Become a production-level Full Stack Engineer
+I’m a **Full Stack Developer** and **Software Engineering student (7th Semester)** at  
+**Mohammad Ali Jinnah University**, Karachi.
+
+I enjoy building **scalable backend systems**, integrating **AI into web applications**,  
+and writing clean, maintainable code that solves real-world problems.
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 Core Focus
+
+- Backend development & REST API design  
+- Authentication & authorization (JWT)  
+- AI integration using **Google Gemini API**  
+- Cloud deployment & CI/CD workflows  
+
+---
+
+## 🛠 Tech Stack
 
 **Frontend**  
-React, Vite, CSS, Framer Motion  
+React · Vite · CSS · Framer Motion  
 
 **Backend**  
-Node.js, Express.js, REST APIs, JWT Authentication  
+Node.js · Express.js · REST APIs · JWT  
 
 **Database**  
-MongoDB, SQL Server  
+MongoDB · SQL Server  
 
 **Tools & Platforms**  
-GitHub, Postman, Docker (Basics), Vercel, Railway  
+Git & GitHub · Postman · Docker (Basics) · Vercel · Railway  
 
 **Languages**  
-JavaScript, C++, C#, Java, Python (Basics)
+JavaScript · C++ · C# · Java · Python (Basics)
 
 ---
 
-## 🧠 Featured Project
+## 🚀 Featured Project
 
 ### **INTERVIEW PREP AI – Full Stack AI Platform**
 🔗 https://interview-prep-frontend-five.vercel.app  
 
-- AI-powered interview preparation app using **Google Gemini AI**
-- Built with **React, Node.js, Express & MongoDB**
-- Secure authentication with **JWT**
-- Deployed on **Vercel & Railway** with CI/CD
+- AI-powered interview preparation platform using **Google Gemini AI**  
+- Built with **React, Node.js, Express & MongoDB**  
+- Secure authentication using **JWT**  
+- Deployed on **Vercel & Railway** with CI/CD  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadyaqoobwako&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyaqoobwako&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadyaqoobwako&show_icons=true&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyaqoobwako&layout=compact&theme=github_dark" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadyaqoobwako&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadyaqoobwako&theme=github-dark"/>
 </p>
 
 ---
 
 ## 📫 Let’s Connect
 
-- 📧 Email: **muhammadyaqoobwako@gmail.com**
-- 🔗 LinkedIn: https://linkedin.com/in/muhammadyaqoob0
+- 📧 Email: **muhammadyaqoobwako@gmail.com**  
+- 🔗 LinkedIn: https://linkedin.com/in/muhammadyaqoob0  
 
-⭐ *Always open to internships, junior roles, and collaboration*
+⭐ *Open to internships, junior roles, and collaboration opportunities*
