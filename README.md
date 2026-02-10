@@ -1,155 +1,81 @@
-<h1 align="center">Hi 👋, I'm Muhammad Yaqoob Wako</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan 🇵🇰</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Yaqoob</h1>
+<h3 align="center">Full Stack Developer | Software Engineering Student </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="coding-animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=muhammadyaqoobwako&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyaqoobwako" /> 
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammadyaqoobwako&theme=radical" alt="Trophies" />
-  </a> 
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-<p align="left">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" alt="developer gif">
-</p>
-
-- 🎓 **Software Engineering Student** passionate about coding and real-world projects.
-- 💻 Skilled in building **Full Stack Applications** using **MERN Stack**.
-- 🚀 Constantly learning new technologies and improving my skills every day.
-- 🛠️ **Mission:** Become a highly skilled and creative full stack engineer.
-- ✨ Fun Fact: I love building side projects and improving my problem-solving skills daily!
-
----
-
-## 🌱 I’m currently learning
-- ⚛️ React Hooks, Router, Advanced Animations (Framer Motion, AOS)
-- ⚙️ REST APIs with Node.js, Express.js, MongoDB
-- ☕ Java Programming & Object-Oriented Concepts
-- 🐍 Basics of Python & Machine Learning
-- 🧩 Problem Solving (Leetcode, Codeforces)
-
----
-
-## 👀 I’m open to
-- 💼 **Internship & Junior Developer Opportunities**
-- 🧑‍🤝‍🧑 Open Source Contributions & Collaboration
-- 📢 Tech Meetups & Learning from Developers
-
----
-
-## 📫 Contact Me
-
-- 📧 **Email:** muhammadyaqoobwako@gmail.com
-- 🔗 **LinkedIn:** [muhammad-yaqoob](https://www.linkedin.com/in/yaqoobwako/)
-
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-yaqoob" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a> &nbsp;
-<a href="https://www.facebook.com/share/1ArYkkGfv2/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/muhammadyaqoob0">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:muhammadyaqoobwako@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Muhammadyaqoobwako">
+    <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 👨‍💻 About Me
 
-<p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a> 
-<a href="https://docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> </a> 
-<a href="https://figma.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> </a> 
-<a href="https://html.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a> 
-<a href="https://java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a> 
-<a href="https://linux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> </a> 
-<a href="https://mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> </a> 
-<a href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a> 
-<a href="https://unity.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/> </a> 
-</p>
+- 🎓 Software Engineering student at **Mohammad Ali Jinnah University** (7th Semester)
+- 💻 Full Stack Developer (MERN Stack)
+- 🚀 Interested in **AI-powered apps, scalable systems & clean architecture**
+- 🧠 Strong problem-solving mindset & hands-on project experience
+- 🎯 Goal: Become a production-level Full Stack Engineer
+
+---
+
+## 🚀 Tech Stack
+
+**Frontend**  
+React, Vite, CSS, Framer Motion  
+
+**Backend**  
+Node.js, Express.js, REST APIs, JWT Authentication  
+
+**Database**  
+MongoDB, SQL Server  
+
+**Tools & Platforms**  
+GitHub, Postman, Docker (Basics), Vercel, Railway  
+
+**Languages**  
+JavaScript, C++, C#, Java, Python (Basics)
+
+---
+
+## 🧠 Featured Project
+
+### **INTERVIEW PREP AI – Full Stack AI Platform**
+🔗 https://interview-prep-frontend-five.vercel.app  
+
+- AI-powered interview preparation app using **Google Gemini AI**
+- Built with **React, Node.js, Express & MongoDB**
+- Secure authentication with **JWT**
+- Deployed on **Vercel & Railway** with CI/CD
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadyaqoobwako&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadyaqoobwako&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyaqoobwako&layout=compact&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadyaqoobwako&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadyaqoobwako&theme=radical"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadyaqoobwako&theme=radical" alt="GitHub Streak" />
-</p>
+---
 
+## 📫 Let’s Connect
 
+- 📧 Email: **muhammadyaqoobwako@gmail.com**
+- 🔗 LinkedIn: https://linkedin.com/in/muhammadyaqoob0
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+⭐ *Always open to internships, junior roles, and collaboration*
