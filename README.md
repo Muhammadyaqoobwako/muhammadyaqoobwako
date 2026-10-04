@@ -165,7 +165,7 @@ I enjoy transforming ideas into practical software solutions with clean architec
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muhammadyaqoobwako/Muhammadyaqoobwako/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Muhammadyaqoobwako/Muhammadyaqoobwako/snake.yml" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
