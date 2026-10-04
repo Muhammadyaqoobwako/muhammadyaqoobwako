@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Muhammad Yaqoob Wako
 
-### 💻 Junior Full Stack Developer | MERN Stack | AI Integration
+### 💻 Full-Stack Developer | MERN Stack | Node.js | Backend & Cloud
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Junior+Full+Stack+Developer;MERN+Stack+Developer;AI+Integration+Enthusiast;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;MERN+Stack+Developer;Node.js+Backend+Developer;CRM+Automation+%26+Integrations;AI+Integration+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://muhammadyaqoob.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-9B5DE5?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-9B5DE5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/muhammadyaqoob0">
+  <a href="https://linkedin.com/in/muhammadyaqoobwako">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Muhammadyaqoobwako">
@@ -25,87 +25,138 @@
 
 ## 👨‍💻 About Me
 
-I'm **Muhammad Yaqoob Wako**, a **Junior Full Stack Developer** and **Final Semester Software Engineering student** at **Mohammad Ali Jinnah University, Karachi**.
+I'm **Muhammad Yaqoob Wako**, a **Full-Stack Developer** and final-semester **Software Engineering student** specializing in **MERN stack development, Node.js backend systems, CRM automation, integrations, and cloud infrastructure**.
 
-I specialize in building scalable web applications, developing RESTful APIs, creating responsive user interfaces, and integrating AI-powered solutions.
+Currently, I'm working as a **Software Engineer at Dafttar Tech Pvt Ltd**, where I build backend integrations, CRM automation, web applications, deployment pipelines, and cloud-based solutions.
 
-I'm passionate about clean architecture, maintainable code, responsive UI/UX, and solving real-world problems through efficient software solutions.
+I'm passionate about designing clean architectures, building scalable systems, automating business workflows, and solving real-world problems through efficient software.
 
-* 🎓 Final Semester — BS Software Engineering
-* 💻 Full Stack Development with the MERN Stack
-* 🤖 AI Integration with Google Gemini API
-* ⚙️ Backend Development & Microservices Architecture
-* 🔐 JWT Authentication & Authorization
-* ☁️ Cloud Deployment with Vercel & Railway
+* 💼 Software Engineer at Dafttar Tech Pvt Ltd
+* 💻 Full-Stack Development with MERN
+* ⚙️ Node.js Backend & RESTful APIs
+* 🔗 CRM Automation & Third-Party Integrations
+* 🤖 AI-Integrated Applications
+* ☁️ Cloud Infrastructure & Deployment
+* 🔐 JWT Authentication & Secure APIs
+* 🔄 Webhooks & CI/CD Pipelines
 * 🎨 Responsive UI/UX Integration
-* 🚀 Open to Full-Time Roles, Junior Developer Opportunities & Collaboration
+* 🎓 Final Semester — BS Software Engineering
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
-</p>
-
-**React.js • JavaScript (ES6+) • TypeScript • HTML5 • CSS3 • Tailwind CSS**
-
-### ⚙️ Backend Development
+## 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,cpp,cs,py" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 </p>
 
-**Node.js • Express.js • C++ • C# • Python**
+**React.js • JavaScript (ES6+) • Tailwind CSS • HTML5 • CSS3 • EJS Templates**
 
-### 🗄️ Databases & ORM
+---
+
+## ⚙️ Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**MongoDB • SQL Server • Mongoose**
+**Node.js • Express.js • RESTful APIs • Microservices Architecture • JWT Authentication**
 
-### 🔧 Tools & Deployment
+---
+
+## 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-**Git • GitHub • Postman • Figma • Vercel • Railway • CI/CD Pipelines**
+**MongoDB • Mongoose • Microsoft SQL Server**
 
-### 🔑 Additional Expertise
+---
 
-* RESTful API Development
+## ☁️ Cloud, DevOps & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,digitalocean,github" />
+</p>
+
+**DigitalOcean • Vercel • Railway • GitHub • CI/CD Pipelines • Webhooks • Hostinger**
+
+---
+
+## 🔗 Integrations & Platforms
+
+**Zoho CRM • Deluge • Respond.io • Jira • MCP • Expo**
+
+---
+
+## 🧰 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</p>
+
+**Git • GitHub • Postman • Figma • VS Code**
+
+---
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,cs" />
+</p>
+
+**JavaScript • Python • C++ • C#**
+
+---
+
+## 📐 Methodologies
+
+* Agile
+* Scrum
 * Microservices Architecture
-* JWT Authentication & Authorization
-* Mongoose ORM
-* SQL Server
-* CI/CD Pipelines
-* Responsive UI/UX Integration
-* Cloud Deployment
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
-### 🏢 IT Intern — Pakistan Beverage Limited
+## 🚀 Software Engineer — Backend Developer
 
-**July 2025 – August 2025 | Remote**
+### Dafttar Tech Pvt Ltd — Blauda Japan Project
 
-* Maintained and optimized enterprise databases, ensuring data integrity and fast retrieval times for internal teams.
-* Provided technical support for ERP software solutions.
-* Troubleshot technical bottlenecks in business operations.
+**March 2026 – Present**
 
-### 💻 UI/UX Integrator & Developer — IT Corp Inc.
+* ⚙️ Customized **Zoho CRM** with tailored modules and **Deluge functions** to automate business logic and reduce manual data entry.
+* 🔗 Built a **Node.js integration service** connecting **Respond.io with Zoho CRM** for real-time lead data and communication-log synchronization.
+* 🔄 Transformed legacy **Google Sheets workflows** into a scalable **Node.js/EJS web application** deployed through Vercel.
+* ☁️ Managed **DigitalOcean cloud infrastructure** hosting the organization's knowledge base for AI agent training.
+* 🚀 Refined deployment pipelines and implemented automated **webhooks** to deliver reliable, production-ready solutions.
 
-**July 2024 – December 2024 | Karachi, Pakistan**
+---
 
-* Collaborated with cross-functional development teams to integrate responsive UI/UX features.
-* Improved overall application user engagement through effective interface integration.
-* Conducted rigorous testing to identify bugs and improve application performance before launch.
+## 🏢 IT Intern
+
+### Pakistan Beverage Limited (PBL)
+
+**July 2025 – August 2025**
+
+* 🗄️ Maintained and optimized enterprise databases, ensuring data integrity and fast retrieval for internal teams.
+* ⚙️ Provided technical support for ERP software.
+* 🔧 Troubleshot technical bottlenecks affecting business operations.
+
+---
+
+## 🎨 UI/UX Integrator & Developer
+
+### IT Corp Inc
+
+**July 2024 – December 2024**
+
+* 🎨 Collaborated with cross-functional teams to integrate responsive UI/UX features.
+* 📈 Improved application user engagement through effective interface integration.
+* 🧪 Conducted rigorous application testing to identify bugs and improve performance before launch.
 
 ---
 
@@ -124,28 +175,27 @@ I'm passionate about clean architecture, maintainable code, responsive UI/UX, an
   </a>
 </p>
 
-An AI-powered interview preparation platform designed to simulate technical interviews using **Google Gemini AI**.
+An AI-powered interview preparation platform built with the **MERN stack and Google Gemini AI**.
 
-### ✨ Key Features
+### ✨ Highlights
 
-* 🤖 AI-powered technical interview simulation
-* 🔐 JWT-based authentication
-* 👤 Secure user session management
+* 🤖 Google Gemini AI integration
+* 🔐 Secure JWT-based session management
 * 🔌 RESTful API architecture
-* 📊 User-focused interview experience
-* 🚀 Frontend deployed on Vercel
-* ☁️ Backend deployed on Railway
-* 🔄 CI/CD deployment pipeline
+* 🗄️ MongoDB database
+* 🚀 Vercel frontend deployment
+* ☁️ Railway backend deployment
+* 🔄 CI/CD pipelines
 
-**Tech Stack:**
+**Tech Stack**
 
 `React.js` `Node.js` `Express.js` `MongoDB` `Google Gemini API` `JWT`
 
 ---
 
-## 💻 LapBazaar
+# 💻 LapBazaar
 
-### Laptop Marketplace & Repair Management System
+### Laptop Marketplace & Repair Ticketing System
 
 <p>
   <a href="https://github.com/Muhammadyaqoobwako/lapbazaar">
@@ -153,42 +203,65 @@ An AI-powered interview preparation platform designed to simulate technical inte
   </a>
 </p>
 
-A comprehensive laptop marketplace and repair ticketing system combining e-commerce functionality with repair management.
+A comprehensive laptop marketplace and repair management platform.
 
-### ✨ Key Features
+### ✨ Highlights
 
 * 💻 Laptop marketplace
 * 🔧 Repair ticketing system
 * 🔐 JWT authentication
 * 👥 Role-based access control
-* 🔌 Secure REST APIs
+* 🔌 REST APIs
 * 📱 Responsive frontend
-* 🛒 Customer browsing and purchasing experience
+* 🛒 Customer purchasing experience
 
-**Tech Stack:**
+**Tech Stack**
 
 `React.js` `Node.js` `MongoDB` `REST APIs` `JWT`
 
 ---
 
-## 📚 Book Management System
+# 📚 Book Management System
 
-### Full Stack Book & Customer Management Application
+### Full-Stack Book & Customer Management Application
 
-A full-stack management system designed to efficiently manage books, customers, and inventory.
+A scalable management application designed to efficiently manage books, customers, and inventory.
 
-### ✨ Key Features
+### ✨ Highlights
 
 * 📚 Book management
 * 👥 Customer management
 * 📊 Management dashboard
-* 🗄️ MongoDB database integration
+* 🗄️ MongoDB integration
 * ⚙️ Microservices-inspired architecture
-* 🚀 Optimized database queries
+* 🚀 Optimized MongoDB queries
 
-**Tech Stack:**
+**Tech Stack**
 
 `React.js` `Node.js` `Express.js` `MongoDB`
+
+---
+
+# 🍔 FAS Food
+
+### Legacy Web-to-Mobile Migration
+
+A migration project focused on transforming a legacy web-based food ordering application into a mobile application using **MCP-driven workflows and Expo**.
+
+### ✨ Highlights
+
+* 📱 Migrated legacy web application to mobile
+* ⚛️ Built using Expo
+* 🔌 MCP-driven development workflows
+* 🧪 Prepared manual test cases for functional validation
+* 📋 Integrated Jira for task tracking
+* 🐙 Integrated GitHub for version control
+* 🚀 Integrated Vercel for deployment
+* 🗄️ Integrated MongoDB for database management
+
+**Tech Stack**
+
+`Expo` `MCP` `Jira` `GitHub` `Vercel` `MongoDB`
 
 ---
 
@@ -208,34 +281,44 @@ A full-stack management system designed to efficiently manage books, customers, 
 # 🐍 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muhammadyaqoobwako/Muhammadyaqoobwako/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img
+    src="https://raw.githubusercontent.com/Muhammadyaqoobwako/Muhammadyaqoobwako/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake Animation"
+  />
 </p>
 
 ---
 
 # 🎓 Education
 
-### Bachelor of Science in Software Engineering
+## Bachelor of Science in Software Engineering
 
 **Mohammad Ali Jinnah University**
 📍 Karachi, Pakistan
-📅 February 2023 – Present
-🎓 Final Semester
+📅 February 2023 – February 2027
 
 ---
 
-# 🌐 Portfolio
+# 🏆 Certifications
+
+* 📘 Introduction to MongoDB
+* 📗 Scrum Fundamentals Certified
+* 📙 Microservices Architecture Certification
+* 📕 Advanced Web Development
+* ☁️ Cloud Computing
+
+---
+
+# 🌐 My Portfolio
 
 <p align="center">
-
-<a href="https://muhammadyaqoob.vercel.app/">
-<img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-9B5DE5?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
+  <a href="https://muhammadyaqoob.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-9B5DE5?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <i>Explore my projects, skills, experience, and development journey.</i>
+  <i>Explore my projects, technical skills, professional experience, and development journey.</i>
 </p>
 
 ---
@@ -243,26 +326,33 @@ A full-stack management system designed to efficiently manage books, customers, 
 # 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://muhammadyaqoob.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-9B5DE5?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/muhammadyaqoob0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:muhammadyaqoobwako@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Muhammadyaqoobwako">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="https://muhammadyaqoob.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-9B5DE5?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/muhammadyaqoobwako">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:muhammadyaqoobwako@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Muhammadyaqoobwako">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <b>💡 Building. Learning. Innovating.</b>
-  <br />
-  Turning ideas into scalable digital solutions.
+
+### 💡 Building. Learning. Innovating.
+
+**Turning ideas into scalable digital solutions.**
+
 </p>
 
 <p align="center">
