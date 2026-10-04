@@ -3,21 +3,21 @@
 ### 💻 Junior Full Stack Developer | MERN Stack | AI Integration
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=650&lines=Junior+Full+Stack+Developer;MERN+Stack+Developer;AI+Integration+Enthusiast;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Junior+Full+Stack+Developer;MERN+Stack+Developer;AI+Integration+Enthusiast;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://muhammadyaqoob.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-9B5DE5?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-9B5DE5?style=for-the-badge" />
   </a>
   <a href="https://linkedin.com/in/muhammadyaqoob0">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:muhammadyaqoobwako@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/Muhammadyaqoobwako">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:muhammadyaqoobwako@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -25,49 +25,58 @@
 
 ## 👨‍💻 About Me
 
-I'm **Muhammad Yaqoob Wako**, a Junior Full Stack Developer and Final Semester Software Engineering student at **Mohammad Ali Jinnah University, Karachi**.
+I'm **Muhammad Yaqoob Wako**, a **Junior Full Stack Developer** and **Final Semester Software Engineering student** at **Mohammad Ali Jinnah University, Karachi**.
 
-I specialize in building scalable web applications, developing RESTful APIs, designing responsive user interfaces, and integrating AI-powered solutions.
+I specialize in building scalable web applications, developing RESTful APIs, creating responsive user interfaces, and integrating AI-powered solutions.
 
-I enjoy transforming ideas into practical software solutions with clean architecture, maintainable code, and modern development technologies.
+I'm passionate about clean architecture, maintainable code, responsive UI/UX, and solving real-world problems through efficient software solutions.
 
-* 🎓 Final Semester – BS Software Engineering
-* 💻 Specialized in MERN Stack Development
-* 🤖 Experienced in AI Integration using Google Gemini API
+* 🎓 Final Semester — BS Software Engineering
+* 💻 Full Stack Development with the MERN Stack
+* 🤖 AI Integration with Google Gemini API
 * ⚙️ Backend Development & Microservices Architecture
-* ☁️ Cloud Deployment using Vercel and Railway
-* 🎨 UI/UX Integration and Responsive Web Design
-* 🚀 Open to Full-Time Opportunities, Junior Developer Roles & Collaboration
+* 🔐 JWT Authentication & Authorization
+* ☁️ Cloud Deployment with Vercel & Railway
+* 🎨 Responsive UI/UX Integration
+* 🚀 Open to Full-Time Roles, Junior Developer Opportunities & Collaboration
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Frontend Development
+### 🎨 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
 </p>
 
-### Backend Development
+**React.js • JavaScript (ES6+) • TypeScript • HTML5 • CSS3 • Tailwind CSS**
+
+### ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,cpp,cs,py" />
 </p>
 
-### Databases
+**Node.js • Express.js • C++ • C# • Python**
+
+### 🗄️ Databases & ORM
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools & Technologies
+**MongoDB • SQL Server • Mongoose**
+
+### 🔧 Tools & Deployment
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,vscode" />
 </p>
 
-**Additional Expertise:**
+**Git • GitHub • Postman • Figma • Vercel • Railway • CI/CD Pipelines**
+
+### 🔑 Additional Expertise
 
 * RESTful API Development
 * Microservices Architecture
@@ -75,81 +84,115 @@ I enjoy transforming ideas into practical software solutions with clean architec
 * Mongoose ORM
 * SQL Server
 * CI/CD Pipelines
-* UI/UX Integration
+* Responsive UI/UX Integration
+* Cloud Deployment
 
 ---
 
 ## 💼 Professional Experience
 
-### IT Intern | Pakistan Beverage Limited
+### 🏢 IT Intern — Pakistan Beverage Limited
 
-📅 July 2025 – August 2025 | Remote
+**July 2025 – August 2025 | Remote**
 
-* Maintained and optimized enterprise databases, ensuring data integrity and efficient data retrieval.
+* Maintained and optimized enterprise databases, ensuring data integrity and fast retrieval times for internal teams.
 * Provided technical support for ERP software solutions.
-* Troubleshot technical bottlenecks affecting business operations.
+* Troubleshot technical bottlenecks in business operations.
 
-### UI/UX Integrator & Developer | IT Corp Inc.
+### 💻 UI/UX Integrator & Developer — IT Corp Inc.
 
-📅 July 2024 – December 2024 | Karachi, Pakistan
+**July 2024 – December 2024 | Karachi, Pakistan**
 
 * Collaborated with cross-functional development teams to integrate responsive UI/UX features.
-* Improved application usability and user engagement through interface integration.
-* Performed application testing, identified bugs, and enhanced performance before launch.
+* Improved overall application user engagement through effective interface integration.
+* Conducted rigorous testing to identify bugs and improve application performance before launch.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 Interview Prep AI
+## 🤖 Interview Prep AI
 
-**AI-Powered Interview Preparation Platform**
+### AI-Powered Interview Preparation Platform
 
 <p>
   <a href="https://interview-prep-frontend-five.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-9B5DE5?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Project-9B5DE5?style=for-the-badge" />
   </a>
   <a href="https://github.com/Muhammadyaqoobwako/interview-prep-ai">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-* Developed an AI-powered interview preparation platform using Google Gemini AI.
-* Integrated React, Node.js, Express.js, and MongoDB.
-* Implemented JWT-based authentication and secure user session management.
-* Configured deployment pipelines using Vercel and Railway.
+An AI-powered interview preparation platform designed to simulate technical interviews using **Google Gemini AI**.
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB, Google Gemini API, JWT.
+### ✨ Key Features
 
-### 💻 LapBazaar
+* 🤖 AI-powered technical interview simulation
+* 🔐 JWT-based authentication
+* 👤 Secure user session management
+* 🔌 RESTful API architecture
+* 📊 User-focused interview experience
+* 🚀 Frontend deployed on Vercel
+* ☁️ Backend deployed on Railway
+* 🔄 CI/CD deployment pipeline
 
-**Laptop Marketplace & Repair Management System**
+**Tech Stack:**
 
-<p>
-  <a href="https://github.com/Muhammadyaqoobwako/lapbazaar">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-* Developed a comprehensive laptop marketplace and repair ticketing system.
-* Built secure backend APIs with JWT authentication and role-based access control.
-* Created dynamic and responsive interfaces for customer browsing and purchasing.
-
-**Technologies:** React.js, Node.js, MongoDB, REST APIs, JWT.
-
-### 📚 Book Management System
-
-**Full Stack Book & Customer Management Application**
-
-* Developed a book and customer management dashboard.
-* Implemented a microservices-inspired architecture.
-* Optimized MongoDB queries for inventory tracking and user data management.
-
-**Technologies:** MongoDB, Express.js, React.js, Node.js.
+`React.js` `Node.js` `Express.js` `MongoDB` `Google Gemini API` `JWT`
 
 ---
 
-## 📊 GitHub Statistics
+## 💻 LapBazaar
+
+### Laptop Marketplace & Repair Management System
+
+<p>
+  <a href="https://github.com/Muhammadyaqoobwako/lapbazaar">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+A comprehensive laptop marketplace and repair ticketing system combining e-commerce functionality with repair management.
+
+### ✨ Key Features
+
+* 💻 Laptop marketplace
+* 🔧 Repair ticketing system
+* 🔐 JWT authentication
+* 👥 Role-based access control
+* 🔌 Secure REST APIs
+* 📱 Responsive frontend
+* 🛒 Customer browsing and purchasing experience
+
+**Tech Stack:**
+
+`React.js` `Node.js` `MongoDB` `REST APIs` `JWT`
+
+---
+
+## 📚 Book Management System
+
+### Full Stack Book & Customer Management Application
+
+A full-stack management system designed to efficiently manage books, customers, and inventory.
+
+### ✨ Key Features
+
+* 📚 Book management
+* 👥 Customer management
+* 📊 Management dashboard
+* 🗄️ MongoDB database integration
+* ⚙️ Microservices-inspired architecture
+* 🚀 Optimized database queries
+
+**Tech Stack:**
+
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammadyaqoobwako&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -162,24 +205,42 @@ I enjoy transforming ideas into practical software solutions with clean architec
 
 ---
 
-## 🐍 Contribution Activity
+# 🐍 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muhammadyaqoobwako/Muhammadyaqoobwako/snake.yml" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Muhammadyaqoobwako/Muhammadyaqoobwako/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-**Bachelor of Science in Software Engineering**
-Mohammad Ali Jinnah University, Karachi, Pakistan
+### Bachelor of Science in Software Engineering
+
+**Mohammad Ali Jinnah University**
+📍 Karachi, Pakistan
 📅 February 2023 – Present
 🎓 Final Semester
 
 ---
 
-## 🤝 Let's Connect
+# 🌐 Portfolio
+
+<p align="center">
+
+<a href="https://muhammadyaqoob.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-9B5DE5?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <i>Explore my projects, skills, experience, and development journey.</i>
+</p>
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
   <a href="https://muhammadyaqoob.vercel.app/">
@@ -196,10 +257,12 @@ Mohammad Ali Jinnah University, Karachi, Pakistan
   </a>
 </p>
 
+---
+
 <p align="center">
   <b>💡 Building. Learning. Innovating.</b>
-  <br/>
-  Always passionate about creating technology that makes a difference.
+  <br />
+  Turning ideas into scalable digital solutions.
 </p>
 
 <p align="center">
